@@ -1,0 +1,5 @@
+C:\Users\bdncs\source\repos\iCEBYTESetup\iCEBYTESetup\bin\Release\net7.0-windows\publish\win-x64\BYTESetup.exe
+C:\Users\bdncs\source\repos\iCEBYTESetup\iCEBYTESetup\bin\Release\net7.0-windows\publish\win-x64\BYTESetup.deps.json
+C:\Users\bdncs\source\repos\iCEBYTESetup\iCEBYTESetup\bin\Release\net7.0-windows\publish\win-x64\BYTESetup.runtimeconfig.json
+C:\Users\bdncs\source\repos\iCEBYTESetup\iCEBYTESetup\bin\Release\net7.0-windows\publish\win-x64\BYTESetup.pdb
+C:\Users\bdncs\source\repos\iCEBYTESetup\iCEBYTESetup\bin\Release\net7.0-windows\publish\win-x64\BYTESetup.dll
