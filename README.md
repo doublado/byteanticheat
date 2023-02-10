@@ -17,7 +17,14 @@ An advanced FiveM Anticheat software.
 
 ![KtnIBge](https://user-images.githubusercontent.com/80330258/218151352-1af3b6c2-0432-4c87-a636-9edc5ecb4103.png)
 
+## Virustotal Scans
 
+- [BYTE Anticheat](https://www.virustotal.com/gui/file/14a7e452b464539e0cb6c5252e5114dc19324955459c9e472fc53ed7abb70234/details)
+- [BYTE Helper](https://www.virustotal.com/gui/file-analysis/NGNlZGU5YWUyMTNiMWE4MGExNGI5YTkyYTM5MmM0ZDg6MTY3NjA1NDI4Mg==)
+- [BYTE Setup](https://www.virustotal.com/gui/file/ac023e0efa5229c8bddae6974c515b0fb1e9c72cd34115dbb1e19c32ed9f2f8f?nocache=1)
+
+Take in account that files scanned are obfuscated which may result in false-positives.
+Check the behaviour tab in order to get a good understanding of the detections
 
 ## 🔎 Developers
 
