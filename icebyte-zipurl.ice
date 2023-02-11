@@ -1,1 +1,1 @@
-https://github.com/doublado/icebyte/releases/download/BYTE/byte.zip
+https://github.com/doublado/byteanticheat/releases/download/BYTE/byte.zip
